@@ -1,13 +1,50 @@
+
+body{
+  background-color:rgb(235, 66, 235);
+}
+
+#container{
+  background-color: white;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header{
+  background-color: aqua;
+  color:white;
+  text-align: center;
+}
+
+#question{
+  text-align: center;
+}
+#navleft{
+  text-align: left;
+}
+#navright{
+  text-align: right;
+}
+#pickimg{
+  image-rendering: auto
+}
+
+.clues{
+  background-color: blue
+}
+
 p {
     margin: 10px 10px 10px 10px;
   }
   div {
     padding-top: 25px;
     padding-right: 50px;
-    padding-bottom: 10px;
+    padding-bottom: 50px;
     padding-left: 50px;
   }
 
   ul {
     background-color: yellow;
   }
+
+
