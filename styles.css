@@ -20,9 +20,11 @@ body{
   text-align: center;
 }
 #navleft{
+  width: 200px;
   text-align: left;
 }
 #navright{
+  width: 200px;
   text-align: right;
 }
 #pickimg{
